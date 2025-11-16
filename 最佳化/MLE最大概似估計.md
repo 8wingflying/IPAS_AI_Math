@@ -21,7 +21,7 @@ $$
 常用「對數概似」（log-likelihood）簡化計算：
 
 $$
-\\ell(\\theta) = \\log L(\\theta)
+\ell(\theta) = \log L(\theta)
 $$
 
 ---
@@ -44,7 +44,7 @@ $$
 X \sim N(\\mu, \\sigma^2)
 $$
 
-對 $ \mu, \sigma^2 $ 進行 MLE。
+對 $$ \mu, \sigma^2 $$ 進行 MLE。
 
 ### 4.1 對數概似：
 
