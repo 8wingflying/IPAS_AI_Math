@@ -18,4 +18,11 @@
 - 推薦教材
 
 ## 最佳化(Optimization)
+- [CVXPY](https://www.cvxpy.org/)
 - 推薦教材
+  - 經典教材[Convex Optimization – Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/)
+  - Linear Algebra and Optimization for Machine Learning: A Textbook|Aggarwal, Charu C. 
+    - [線性代數與最佳化 機器學習視角](https://www.tenlong.com.tw/products/9787111777052?list_name=c-linear-algebra)
+  - First-Order and Stochastic Optimization Methods for Machine Learning | Guanghui Lan
+    - [機器學習中的一階與隨機優化方法](https://www.tenlong.com.tw/products/9787111724254?list_name=srh)  
+
