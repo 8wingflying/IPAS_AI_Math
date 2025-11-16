@@ -50,7 +50,7 @@ P = \mathcal{N}(\mu_1,\sigma_1^2), \quad
 Q = \mathcal{N}(\mu_2,\sigma_2^2)
 $$
 
-則  $D_{KL}(P\|Q)=?$
+則  $D_{KL}(P\|Q)=?$ $D_{KL}(Q\|P)=?$
 
 $$
 D_{KL}(P\|Q)=
