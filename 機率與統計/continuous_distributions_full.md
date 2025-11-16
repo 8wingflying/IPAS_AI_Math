@@ -12,8 +12,12 @@
 
 # 1. 常態分布（Normal Distribution）
 
-PDF： \[ f(x)=`\frac{1}{\sqrt{2\pi\sigma^2}}`{=tex}
-e\^{-`\frac{(x-\mu)^2}{2\sigma^2}`{=tex}} \]
+PDF： 
+
+$$ 
+f(x)=`\frac{1}{\sqrt{2\pi\sigma^2}}`{=tex}
+e\^{-`\frac{(x-\mu)^2}{2\sigma^2}`{=tex}} 
+$$
 
 CDF： \[
 F(x)=`\frac{1}{2}`{=tex}`\left[1+\operatorname{erf}\left(\frac{x-\mu}{\sigma\sqrt{2}}\right)\right]`{=tex}\]
