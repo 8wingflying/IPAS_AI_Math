@@ -41,10 +41,10 @@ $$
 假設資料服從：
 
 $$
-X \\sim N(\\mu, \\sigma^2)
+X \sim N(\\mu, \\sigma^2)
 $$
 
-對 $ \mu, \sigma^2\\) 進行 MLE。
+對 $ \mu, \sigma^2 $ 進行 MLE。
 
 ### 4.1 對數概似：
 
