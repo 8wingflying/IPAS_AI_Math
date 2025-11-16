@@ -49,8 +49,8 @@ $$
 ### 4.1 對數概似：
 
 $$
-\\ell(\\mu, \\sigma^2) = -\\frac{n}{2}\\log (2\\pi \\sigma^2)
- - \\frac{1}{2\\sigma^2} \\sum_{i=1}^n (x_i - \\mu)^2
+\ell(\mu, \sigma^2) = -\frac{n}{2}\log (2\pi \sigma^2)
+ - \frac{1}{2\sigma^2} \sum_{i=1}^n (x_i - \\mu)^2
 $$
 
 ### 4.2 求導、令其為零
