@@ -4,7 +4,7 @@
 ## 線性代數
 - [麻省理工公開課：線性代數](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)
   - https://github.com/zlotus/notes-linear-algebra 
-- [台大李宏毅教授：線性代數](https://eric-lam.com/LA_2023_fall/2023-fall.html)
+- [台大李宏毅教授：線性代數(2023)](https://eric-lam.com/LA_2023_fall/2023-fall.html)
 - 線上文章
   - [Maths for Machine Learning](https://www.geeksforgeeks.org/machine-learning/machine-learning-mathematics/)
   - [Numerical Matrix Decomposition](https://arxiv.org/abs/2107.02579)
