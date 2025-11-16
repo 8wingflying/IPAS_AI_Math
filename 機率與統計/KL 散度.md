@@ -41,7 +41,7 @@ $$
 
 ---
 
-# 📊 4. 常見例子：兩個常態分布的 KL Divergence
+# 📊 4. 範例：兩個常態分布的 KL Divergence
 
 若
 
