@@ -15,7 +15,7 @@ $$
 假設資料服從某個含參數 $\theta $ 的機率分布，則「概似函數」定義為：
 
 $$
-L(\\theta) = f(x_1|\\theta) f(x_2|\\theta) \\, \\cdots \\, f(x_n|\\theta)
+L(\theta) = f(x_1|\theta) f(x_2|\theta) \\, \\cdots \\, f(x_n|\theta)
 $$
 
 常用「對數概似」（log-likelihood）簡化計算：
@@ -40,11 +40,11 @@ $$
 
 假設資料服從：
 
-\\[
+$$
 X \\sim N(\\mu, \\sigma^2)
-\\]
+$$
 
-對 \\(\\mu, \\sigma^2\\) 進行 MLE。
+對 $ \mu, \sigma^2\\) 進行 MLE。
 
 ### 4.1 對數概似：
 
