@@ -1,0 +1,72 @@
+# 離散機率分布教學檔
+
+## 1. 伯努利分布（Bernoulli Distribution）
+
+-   只有兩種結果：成功(1) 或 失敗(0)
+-   參數：p
+-   PMF：P(X=1)=p, P(X=0)=1-p
+
+## 2. 二項分布（Binomial Distribution）
+
+-   n 次伯努利試驗的成功次數
+-   參數：n, p
+-   PMF：P(X=k)=C(n,k)p^k(1-p)^{n-k}
+
+## 3. 幾何分布（Geometric Distribution）
+
+-   第一次成功出現於第 k 次
+-   PMF：P(X=k)=(1-p)\^{k-1}p
+
+## 4. 負二項分布（Negative Binomial Distribution）
+
+-   達 r 次成功所需試驗次數
+-   PMF：P(X=k)=C(k-1,r-1)p^r(1-p)^{k-r}
+
+## 5. 超幾何分布（Hypergeometric Distribution）
+
+-   不放回抽樣成功 k 次
+-   PMF：P(X=k)=C(K,k)C(N-K,n-k)/C(N,n)
+
+## 6. 泊松分布（Poisson Distribution）
+
+-   固定時間內事件次數
+-   PMF：P(X=k)=e^{-λ}λ^k/k!
+
+## 7. 多項分布（Multinomial Distribution）
+
+-   多類別成功次數
+-   PMF：P = n!/(x1!...xk!) Π p_i\^{x_i}
+
+## 8. 離散均勻分布（Discrete Uniform）
+
+-   所有值機率相同
+
+## 9. 帕斯卡分布（Pascal Distribution）
+
+-   負二項分布的特例
+
+## 10. 對數級數分布（Log-Series Distribution）
+
+-   PMF：P(X=k) = - (1/ln(1-p)) \* p\^k/k
+
+## 11. 尤爾分布（Yule Distribution）
+
+-   重尾分布
+
+## 12. 零修正幾何分布（Zero-Modified Geometric）
+
+## 13. 零膨脹泊松分布（ZIP）
+
+## 14. 零膨脹負二項分布（ZINB）
+
+## 15. 伯努利-多項分布（Bernoulli-Multinomial）
+
+## 16. Pólya 分布（Pólya Urn）
+
+## 17. 斯特林分布（Stirling Distribution）
+
+## 18. 布瓦松--二項分布（Poisson Binomial）
+
+## 19. Lambert W × Poisson 分布
+
+## 20. 柯西離散分布（Discrete Cauchy）
