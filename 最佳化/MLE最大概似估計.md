@@ -58,11 +58,11 @@ $$
 結果得到：
 
 $$
-\\hat{\\mu} = \\frac{1}{n} \\sum x_i
+\hat{\mu} = \frac{1}{n} \sum x_i
 $$
 
 $$
-\\hat{\\sigma}^2 = \\frac{1}{n} \\sum (x_i - \\hat{\\mu})^2
+\hat{\sigma}^2 = \frac{1}{n} \sum (x_i - \hat{\\mu})^2
 $$
 
 ---
